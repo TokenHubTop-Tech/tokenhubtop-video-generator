@@ -1,4 +1,4 @@
-// Copyright © 2026 TokenHubTop. All rights reserved.
+// Copyright © 2026 SEASKY INTELLIGENT TECH (HK) LIMITED (TokenHubTop). All rights reserved.
 // Licensed under the TokenHubTop AI Video Generator Proprietary License. See LICENSE.
 
 import { readFile, writeFile, mkdir, rename, unlink } from 'node:fs/promises';

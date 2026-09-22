@@ -1,6 +1,6 @@
 # TokenHubTop AI Video Generator
 
-> Copyright © 2026 TokenHubTop. All rights reserved. 商业使用与再分发受 [LICENSE](LICENSE) 约束。
+> Copyright © 2026 SEASKY INTELLIGENT TECH (HK) LIMITED (TokenHubTop). All rights reserved. 商业使用与再分发受 [LICENSE](LICENSE) 约束。
 
 Generate AI videos from text and reference media through TokenHubTop, with request previews, task tracking, and downloads.
 

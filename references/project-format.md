@@ -50,4 +50,4 @@ queued、in_progress 为处理中；completed 才可下载；failed 为远端失
 
 ## 版权
 
-Copyright © 2026 TokenHubTop. All rights reserved. 本文件随 TokenHubTop AI Video Generator 一同授权，详见 [LICENSE](../LICENSE)。
+Copyright © 2026 SEASKY INTELLIGENT TECH (HK) LIMITED (TokenHubTop). All rights reserved. 本文件随 TokenHubTop AI Video Generator 一同授权，详见 [LICENSE](../LICENSE)。

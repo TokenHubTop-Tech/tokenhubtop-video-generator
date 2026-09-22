@@ -61,6 +61,6 @@ collect 先查询状态，再保存成功镜头的视频。下载不携带 API �
 
 ## 版权与许可
 
-Copyright © 2026 TokenHubTop. All rights reserved.
+Copyright © 2026 SEASKY INTELLIGENT TECH (HK) LIMITED (TokenHubTop). All rights reserved.
 
 本 Skill 及其安装包适用 TokenHubTop 商业许可。未经 TokenHubTop 事先书面许可，不得复制、修改、转售、再许可、重新发布或向第三方分发。详见 [LICENSE](LICENSE)。
