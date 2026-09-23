@@ -53,7 +53,7 @@ You can request a video in your own language after setup. Specify an available m
 
 ## Installation / 其他安装方式
 
-Import this repository into an agent supporting Skills, or download [v1.0.0 ZIP](packages/tokenhubtop-video-generator-1.0.0.zip). Keep SKILL.md at the skill root. Follow your agent's installation instructions.
+Import this repository into an agent supporting Skills, or download [v1.0.2 ZIP](packages/tokenhubtop-video-generator-1.0.2.zip). Keep SKILL.md at the skill root. Follow your agent's installation instructions.
 
 将本仓库导入支持 Skill 的智能体，或下载上述安装包并按智能体说明安装。
 
